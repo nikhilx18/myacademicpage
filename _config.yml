@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Nikhil / CSE @GJU and Data Science @IITM"
 title_separator          : "-"
 name                     : &name "Nikhil"
-description              : &description "personal description"
+description              : &description "2nd year student at GJU and pursing diploma in Programming from IITM"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nikhil"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Student of GJU"
+  location         : "Hisar, India"
+  employer         : "Guru Jambheshwar University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nikhilkumar7718@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
