@@ -13,7 +13,7 @@ plugins:
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nikhil Kumar | CSE-AIML @ GJU + Data Science @ IITM"
+title                    : "Nikhil Kumar | Data Science @ IITM"
 title_separator          : "-"
 name                     : &name "NIKHIL KUMAR"
 description              : &description "2nd-year CSE (AIML) student at GJU Hisar, pursuing Data Science diploma from IIT Madras."
